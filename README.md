@@ -11,9 +11,6 @@
 |       | Prism    | [Prism](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/README.md)  |         
 |       |    |  |    
 |       |    |  | 
-|       |          | []()|
-|       |          | []() |
 | Set 2 | Root Me | []() |
-|       |          | []() |
-|       |          | []() |
+
 </div>
