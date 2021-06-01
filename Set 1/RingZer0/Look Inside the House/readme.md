@@ -2,9 +2,6 @@
 
 - We are provided with the [`Zip`](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/Look%20Inside%20the%20House/1.zip) file.
 - Unzip it to get the [`JPG`](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/Look%20Inside%20the%20House/1.jpg) image.
-
-![Image](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/Look%20Inside%20the%20House/1.jpg?raw=true) 
-
 - From the challenge name, my initial analysis was using `Binwalk`.
 - But nothing interesting was found.
 - Next I tried with `Steghide`.
