@@ -21,12 +21,12 @@ for me" ! We are licensed to operate in all states ! We IMPLORE you - act now . 
 - Initially I was not able to understand anything.
 - Then after `googling` i got to know that its a [`Spam Encoded`](https://www.vbforums.com/showthread.php?157720-Decode-the-SPAM).
 
-![]()
+![](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/I'm%20Goronyo%20Babad%20Nigerian%20prince/1.png?raw=true)
 
 - Next step is to `decode` the spam encoded.
 - [`Online Decoder`](https://www.spammimic.com/index.cgi)
 
-![]()
+![](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/I'm%20Goronyo%20Babad%20Nigerian%20prince/2.png?raw=true)
 
 ```
 the flag is spamspamspamihateyou
