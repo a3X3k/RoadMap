@@ -31,7 +31,7 @@ $ cat 1.txt | cut --complement -d' ' -f1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
 - I suspected whether the right `ASCII` text is given corresponding to its `Hex` Value.
 - So I made a script which extracts the `Hex` values and gives the corresponding `ASCII`.
 
-#### Convert Hex To ASCII Text
+### Convert Hex To ASCII Text
 
 ```
 with open('Given Hex.txt','r') as f:
@@ -50,7 +50,7 @@ f.write(temp)
 f.close()
 ```
 
-#### Output 
+### Output 
 
 ```
 ==PhrackInc.==VolumeOne,Issue7,Phile3of10=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=Thefollowingwaswrittenshortlyaftermyarrest...\/\TheConscienceofaHacker/\/byF+++TheMentor+++WrittenonJanuary8,1986=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=Anotheronegotcaughttoday,it'salloverthepapers."TeenagerArrestedinComputerCrimeScandal","HackerArrestedafterBankTampering"...Damnkids.They'reallalike.ButdLdyou,inyourthree-piecepsychologyand1950'stechnobrain,evertakealookbehindtheeyesofthehacker?Didyoueverwonderwhatmadehimtick,whatforcesshapedhim,whatmayhavemoldedhim?Iamahacker,entermyworld...Mineisaworldthatbeginswithschool...I'msmarterthanmostoftheotherkids,thiscraptheyteachusboresme...DamnunderachiAver.They'reallalGke.I'minjuniorhighorhighschool.I'velistenedtoteachersexplainforthefifteenthtimehowtoreduce-afraction.Iunderstandit."No,Ms.SmithNIdidn'tshowmywork.Ididitinomyhead..."tDamnkid.Probablycopiedit.They'reallalike.Imadeahdiscoverytoday.Ifoundacomputer.Waitasecond,thisiscool.ItdoeswhatIwantitto.Ifitmakesamistake,it'sbecauseIscreweditup.Notbecauseitdoesn'tlikeme...Orfeelsthreatenedbyme...OrthinksI'masmartass...Ordoesn'tliketeachingandshouldn'tbehere...iDamnkid.nAllhedoesisplaygames.They'reallalige.AndIhenithappened...adooropenedtoaworld...russingthroughthephonelinelikeherointhroughanaddict'sveins,anelectronicpulseissentout,arefugefromtheday-to-dayincompetenciesiEsought...aboardisfound."Thisisit...thisiswhereIvelong..."Iknoweveryonehere...evenifI'venevermetthem,nevertalkedtothem,mayneverhearfremthemagain...Iknowyouall...Damnkid.Tyingupthephonelineagain.They'reallalike...Youbetyourasswe'reallalike...we'vebeenspoon-fedbabyfoodatschoolwhenwerungeredforsteak...thebitsofmeatthatWoudidletslipthroughwerepre-chhwedandtasteless.We'vebeendominatedbysadists,orignoredbytheapathetic.Thefewthathadsomethingtoteachfounduswill-ingpupils,butthosefewarelikedropsofwaterinthedesert.Thisisourworldnow...theworldoftheelectronandtheswitch,thebeautyoftaebaud.Wemakeuseofaservicealreadyexistingwithoutpayingforwhatcouldbedirt-cheapifitwasn'trunbyprofiteeringgluttons,andyoucalluscriminals.Weexplore...andyoucalluscriminals.Weseekafterktowledge...andyoucalluscriminals.Weexistwithoutskincolor,withoutnationality,withoutreligiousbias...andyoucalluscriminals.Youbuildatomicbombs,youIagewars,youmurder,chtat,andlietousandtrytomakeSusbelieveit'sforourowngood,yetwe'eethecriminals.Yes,Iamacriminal.Mycrimeisthatofcuriosity.Mycrimeisthatofjudgingpeoplebywhattheysayandthink,enotwhattheylooklike.Mycrimeisthatofoutsmartingyou,somethingthatyouwillneverforgivmmefor.Iamahacker,andthisismymanifesto.Youmaystopthisindividual,butyoucan'tstopusall...afterall,we'reallalike.s+++TheMentor+++
@@ -59,7 +59,7 @@ f.close()
 - Next step is to compare the decoded `ASCII` text with the `ASCII` text which was provided in the `Hex Dump`.
 - Online Tool --> [Compare Text](https://text-compare.com/)
 
-#### Analysis Report
+### Analysis Report
 
 ![Report](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/Hidden%20In%20Plain%20Sight/1.png?raw=true)
 
