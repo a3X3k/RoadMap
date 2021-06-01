@@ -10,7 +10,6 @@
 |       |          | [Hidden In Plain Sight](https://github.com/a3X3k/RoadMap/tree/main/Set%201/RingZer0/Hidden%20In%20Plain%20Sight/readme.md)                           |
 | | |
 |       | Prism    | [Prism](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/README.md)  |         
-| | |
 | :-----: | :-----: | :-----: |    
 |  |  | [Audio Stegano]() |
 | Set 2 | Root Me | [Some Where]() |
