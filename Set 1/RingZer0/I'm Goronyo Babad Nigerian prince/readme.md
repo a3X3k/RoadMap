@@ -1,9 +1,9 @@
-# I'm Goronyo Babad Nigerian prince
+# I'm Goronyo Babad Nigerian Prince
 
 - We are provided with the text.
 
 ```
-Dear Business person ; We know you are interested in receiving amazing news . We will comply with all removal requests. This mail is being sent in compliance with Senate bill 1620 ; Title 9 , Section 306 . THIS IS NOT MULTI-LEVEL MARKETING .
+Dear Business person ; We know you are interested in receiving amazing news . We will comply with all removal requests. This mail is being sent in compliance with Senate bill 1620 ; Title 9 , Section 306 . THIS IS NOT MULTI-LEVEL MARKETING . 
 Why work for somebody else when you can become rich in 30 DAYS ! Have you ever noticed nearly every commercial on television has a .com on in it & society seems to be moving faster and faster ! Well, now is your chance to capitalize on this 
 ! WE will help YOU process your orders within seconds plus use credit cards on your website ! You are guaranteed to succeed because we take all the risk . But don't believe us ! Mr Jones who resides in Massachusetts tried us and says "I was skeptical but it worked for
 me" ! We are a BBB member in good standing ! For the sake of your family order now ! Sign up a friend and your friend will be rich too ! Best regards ! Dear Cybercitizen , This letter was specially selected to
