@@ -18,8 +18,8 @@
 
 ![Image](https://github.com/a3X3k/RoadMap/blob/main/Set%201/RingZer0/Your%20Old%20Friend%20Orloge%20Simard/Morse.png?raw=true)
 
-- Initially Decoding the first your characters gives `EVMN`.
-- The 5th Character `---.` is not in the Morse Code. 
+- Initially Decoding the first `four` characters gives `EVMN`.
+- The `fifth` Character `---.` is not in the Morse Code. 
 - But we have the reverse of it `.---` which corresponds to `J` in Morse Code.
 - So Now I tried to decode the Morse Code in Reverse.
 
