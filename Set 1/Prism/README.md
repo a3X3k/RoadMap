@@ -1,8 +1,8 @@
 # Prism
 
-### Description
+## Description
 
-Do you have a prism to take a closer look?
+- Do you have a prism to take a closer look?
 
 - We are provided with the [`PNG`](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/prism.png) Image.
 
@@ -10,6 +10,8 @@ Do you have a prism to take a closer look?
 
 - I analysed it using `stegsolve`.
 - In Plane Analysis I got `3` different `QR Codes`.
+
+## Approach 1
 
 ### Red Plane 0 to 7
 
@@ -36,3 +38,36 @@ fzOkBnlfeIyVE}
 ```
 
 - `Concatenating` them gives the `flag`.
+
+## Approach 2
+
+
+### Full Red
+
+![`PNG`](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/R.png)
+
+```
+InnoCTF{cNNrPK
+```
+
+### Full Green
+
+![`PNG`](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/G.png)
+
+```
+wEClhwlIs8c163
+```
+
+### Full Blue
+
+![`PNG`](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/B.png)
+
+```
+fzOkBnlfeIyVE}
+```
+
+- `Concatenating` them gives the `flag`.
+
+```
+InnoCTF{cNNrPKwEClhwlIs8c163fzOkBnlfeIyVE}
+```
