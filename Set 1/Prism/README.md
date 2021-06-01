@@ -39,6 +39,10 @@ fzOkBnlfeIyVE}
 
 - `Concatenating` them gives the `flag`.
 
+```
+InnoCTF{cNNrPKwEClhwlIs8c163fzOkBnlfeIyVE}
+```
+
 ## Approach 2
 
 
