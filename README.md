@@ -12,12 +12,12 @@
 |       | Prism    | [Prism](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/README.md)  |         
 | :-----: | :-----: | :-----: |    
 |  |  | [Audio Stegano]() |
-| Set 2 | Root Me | [Some Where]() |
+|| Root Me | [Some Where]() |
 |  |  | [We Need To Go Deeper]() |
 | | |
-|  |  | [LSB Challenge]() |
+| Set 2 |  | [LSB Challenge]() |
 |  |  | [Logo Sucks Bad]() |
-|  |  | [For5]() |
+|   |  | [For5]() |
 |  |  | [Red King]() |
 | :-----: | :-----: | :-----: | 
 |  | RingZer0 | [SigID Level 1]() |
