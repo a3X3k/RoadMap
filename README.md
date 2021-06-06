@@ -17,6 +17,8 @@
 | | |
 |  |  | [LSB Challenge]() |
 |  |  | [Logo Sucks Bad]() |
+|  |  | [For5]() |
+|  |  | [Red King]() |
 | :-----: | :-----: | :-----: | 
 |  | RingZer0 | [SigID Level 1]() |
 | Set 3 | Root Me | [PDF Object]() |
