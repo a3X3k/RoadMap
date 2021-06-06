@@ -19,8 +19,8 @@
 |  |  | [Logo Sucks Bad]() |
 | :-----: | :-----: | :-----: | 
 |  | RingZer0 | [SigID Level 1]() |
-|  | Root Me | [PDF Object]() |
-| Set 3 | | |
+| Set 3 | Root Me | [PDF Object]() |
+| | | |
 | | | [Reverse SOS]() |
 
 </div>
