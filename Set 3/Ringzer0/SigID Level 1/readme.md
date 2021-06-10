@@ -8,12 +8,12 @@
 - We shall see the [`Aztec`](https://en.wikipedia.org/wiki/Aztec_Code) Code.
 - Crop the `Aztec` code.
 
-![](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Ringzer0/SigID%20Level%201/11.png?raw=true)
+![](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Ringzer0/SigID%20Level%201/11.jpeg?raw=true)
 
 - When I scanned it, I was not able to retrieve anything.
 - Then I changed the `threshold` to make it `White` and `Black` using the [`decoder`](https://elektrobild.org/photo-filter/threshold).
 
-![](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Ringzer0/SigID%20Level%201/12.png?raw=true)
+![](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Ringzer0/SigID%20Level%201/12.jpg?raw=true)
 
 - Again I tried to `scan` it. 
 - But I was not able to retrieve anything.
