@@ -24,6 +24,6 @@
 | Set 3 | Root Me | [PDF Object](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Rootme/PDF%20Object/readme.md) |
 | | | |
 | | | [PDF Reference](https://github.com/a3X3k/RoadMap/blob/main/Set%203/PDF/readme.md) |
-| | | [Reverse SOS]() |
+| | | [Reverse SOS](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Reverse%20SOS/README.md) |
 
 </div>
