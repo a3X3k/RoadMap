@@ -11,9 +11,9 @@
 | | |
 |       | Prism    | [Prism](https://github.com/a3X3k/RoadMap/blob/main/Set%201/Prism/README.md)  |         
 | :-----: | :-----: | :-----: |    
-|  |  | [Audio Stegano]() |
-|| Root Me | [Some Where]() |
-|  |  | [We Need To Go Deeper]() |
+|  |  | [Audio Stegano](https://github.com/a3X3k/RoadMap/blob/main/Set%202/Root%20Me/Audio%20Stegano/readme.md) |
+|| Root Me | [Some Noise](https://github.com/a3X3k/RoadMap/blob/main/Set%202/Root%20Me/Some%20Noise/readme.md) |
+|  |  | [We Need To Go Deeper](https://github.com/a3X3k/RoadMap/blob/main/Set%202/Root%20Me/We%20Need%20To%20Go%20Deeper/readme.md) |
 | | |
 | Set 2 |  | [LSB Challenge]() |
 |  |  | [Logo Sucks Bad]() |
