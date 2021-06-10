@@ -20,10 +20,10 @@
 |   |  | [For5](https://github.com/a3X3k/RoadMap/blob/main/Set%202/For5/readme.md) |
 |  |  | [Red King](https://github.com/a3X3k/RoadMap/blob/main/Set%202/Red%20King/README.md) |
 | :-----: | :-----: | :-----: | 
-|  | RingZer0 | [SigID Level 1]() |
-| Set 3 | Root Me | [PDF Object]() |
+|  | RingZer0 | [SigID Level 1](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Ringzer0/SigID%20Level%201/readme.md) |
+| Set 3 | Root Me | [PDF Object](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Rootme/PDF%20Object/readme.md) |
+| | | [PDF Reference](https://github.com/a3X3k/RoadMap/blob/main/Set%203/PDF/readme.md) |
 | | | |
 | | | [Reverse SOS]() |
-| | | [PDF Reference]() |
 
 </div>
