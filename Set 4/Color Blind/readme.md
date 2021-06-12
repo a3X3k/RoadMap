@@ -6,7 +6,7 @@
 - Try analysing using `zsteg`.
 - Lets analyse using `zsteg -a <File Name>` which gives all hidden information.
 
-![](https://github.com/a3X3k/RoadMap/blob/main/Set%204/Color%20Blind/1.png?raw=true)
+![](https://github.com/a3X3k/RoadMap/blob/main/Set%204/Color%20Blind/2.png?raw=true)
 
 - Here we get the `flag` directly.
 
