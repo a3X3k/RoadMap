@@ -25,5 +25,7 @@
 | | | |
 | | | [PDF Reference](https://github.com/a3X3k/RoadMap/blob/main/Set%203/PDF/readme.md) |
 | | | [Reverse SOS](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Reverse%20SOS/README.md) |
-
+| :-----: | :-----: | :-----: |
+| | | [Color Blind]() |
+| | | [GIMP IT]() |
 </div>
