@@ -27,7 +27,7 @@
 | | | [Reverse SOS](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Reverse%20SOS/README.md) |
 | :-----: | :-----: | :-----: |
 | | | [Color Blind](https://github.com/a3X3k/RoadMap/blob/main/Set%204/Color%20Blind/readme.md) |
-| | | [GIMP IT]() |
+| | | [GIMP IT](https://github.com/a3X3k/RoadMap/blob/main/Set%204/GIMP%20IT/readme.md) |
 | | | [0110]() |
 | | | [INCTF Challenge]() |  
 </div>
