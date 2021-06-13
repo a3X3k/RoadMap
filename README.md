@@ -17,6 +17,7 @@
 |Set 2| [Logo Sucks Bad](https://github.com/a3X3k/RoadMap/blob/main/Set%202/Logo%20Sucks%20Bad/readme.md) |
 | Set 2| [For5](https://github.com/a3X3k/RoadMap/blob/main/Set%202/For5/readme.md) |
 | Set 2| [Red King](https://github.com/a3X3k/RoadMap/blob/main/Set%202/Red%20King/README.md) |
+| Set 2| [LSB In Audio]() |
 | :-----: | :-----: | :-----: | 
 | Set 3 | [SigID Level 1](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Ringzer0/SigID%20Level%201/readme.md) |
 | Set 3| [PDF Object](https://github.com/a3X3k/RoadMap/blob/main/Set%203/Rootme/PDF%20Object/readme.md) |
