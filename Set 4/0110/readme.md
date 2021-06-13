@@ -9,18 +9,16 @@
 
 ```
 from PIL import Image, ImageChops
-     
-# creating a image1 object 
+
 im1 = Image.open("1.png") .convert("1")
-     
-# creating a image2 object 
+
 im2 = Image.open("2.png") .convert("1")
      
 # applying logical_xor method 
 ImageChops.logical_xor(im1, im2).save("3.png")
 ```
 
-- Now we get the `XOR`ed Image.
+- Now we get the [`XOR`ed](https://github.com/a3X3k/RoadMap/blob/main/Set%204/0110/0%201%201%200/3.png) Image.
 
 ![](https://github.com/a3X3k/RoadMap/blob/main/Set%204/0110/0%201%201%200/3.png?raw=true)
 
