@@ -3,7 +3,7 @@
 # RoadMap
 |  Set | Challenge                                                                                                                                  |
 | :-----: | :-: |
-|  **Set 1 **      |[The Sloth](https://github.com/a3X3k/RoadMap/tree/main/Set%201/RingZer0/The%20Sloth/readme.md)                                                       |
+|  **Set 1**      |[The Sloth](https://github.com/a3X3k/RoadMap/tree/main/Set%201/RingZer0/The%20Sloth/readme.md)                                                       |
 |   Set 1     |[Look Inside the House](https://github.com/a3X3k/RoadMap/tree/main/Set%201/RingZer0/Look%20Inside%20the%20House/readme.md)                           |
 | Set 1 |[I'm Goronyo Babad Nigerian Prince](https://github.com/a3X3k/RoadMap/tree/main/Set%201/RingZer0/I'm%20Goronyo%20Babad%20Nigerian%20prince/readme.md) |
 |   Set 1      |[Your Old Friend Orloge Simard](https://github.com/a3X3k/RoadMap/tree/main/Set%201/RingZer0/Your%20Old%20Friend%20Orloge%20Simard/readme.md)         |
