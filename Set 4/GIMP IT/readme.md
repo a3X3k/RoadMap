@@ -57,7 +57,7 @@ image.save("2.png")
 ```
 
 - After creating the Image I saved it as [`PNG`](https://github.com/a3X3k/RoadMap/blob/main/Set%204/GIMP%20IT/GIMP%20It/2.png) image. ( Can be `JPG` or `JPEG` or `BMP` too ).
-- Scan it using `zbarimg` we shall get the `flag`.
+- Scanning it using `zbarimg` we shall get the `flag`.
 
 ![](https://github.com/a3X3k/RoadMap/blob/main/Set%204/GIMP%20IT/GIMP%20It/4.png?raw=true)
 
