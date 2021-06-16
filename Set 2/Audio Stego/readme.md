@@ -16,7 +16,7 @@ import wave
 
 file="1.wav"
 
-"""This takes the filepath and decodes the hidden data and returns it"""
+# This takes the filepath and decodes the hidden data and returns it
 song = wave.open(file, mode='rb')
 
 # Convert audio to byte array
