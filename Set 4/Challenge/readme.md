@@ -1,4 +1,4 @@
-# Challenge
+# INCTF Challenge
 
 - Download the [`PNG Image`](https://github.com/a3X3k/RoadMap/blob/main/Set%204/Challenge/1.png).
 - Try analysing using `zsteg`.
