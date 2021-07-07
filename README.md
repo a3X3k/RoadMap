@@ -43,9 +43,9 @@
 | Network - [`DHCP.PCAP`](https://github.com/a3X3k/RoadMap/blob/main/Network/Files/dhcp.pcapng) |[I will assit]() |  
 | Network - [`DHCP.PCAP`](https://github.com/a3X3k/RoadMap/blob/main/Network/Files/dhcp.pcapng)  |[Shark01]() |  
 | Network - [`DHCP.PCAP`](https://github.com/a3X3k/RoadMap/blob/main/Network/Files/dhcp.pcapng)  |[Who speaks]() |
-| Network |[]() |  
-| Network |[]() |
-| Network |[]() |
+| Network - [`NETWORK.PCAP`](https://github.com/a3X3k/RoadMap/blob/main/Network/Files/network.pcapng) |[Please give]() |  
+| Network - [`NETWORK.PCAP`](https://github.com/a3X3k/RoadMap/blob/main/Network/Files/network.pcapng) |[Tick Tock]() |
+| Network - [`DNS.PCAP`](https://github.com/a3X3k/RoadMap/blob/main/Network/Files/dns.pcapng)  |[Some good ol fashion txt]() |
 | Network |[]() |
 | Network |[]() |
 | Network |[]() |
