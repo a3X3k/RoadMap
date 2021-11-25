@@ -29,6 +29,8 @@
 | Set 4| [0110](https://github.com/a3X3k/RoadMap/blob/main/Set%204/0110/readme.md) |
 |Set 4 | [INCTF Challenge](https://github.com/a3X3k/RoadMap/blob/main/Set%204/Challenge/readme.md) |  
 | :-----: | :-----: |
+   
+   <!---
 | Network|[A Second Listener]() |
 | Network|[A Very Secure Authication Method]() |
 | Network|[Exif]() |
@@ -46,5 +48,6 @@
 | Network |[Please give]() |  
 | Network |[Tick Tock]() |
 | Network |[Some good ol fashion txt]() |
+-->
    
 </div>
