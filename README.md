@@ -28,7 +28,6 @@
 | Set 4 | [GIMP IT](https://github.com/a3X3k/RoadMap/blob/main/Set%204/GIMP%20IT/readme.md) |
 | Set 4| [0110](https://github.com/a3X3k/RoadMap/blob/main/Set%204/0110/readme.md) |
 |Set 4 | [INCTF Challenge](https://github.com/a3X3k/RoadMap/blob/main/Set%204/Challenge/readme.md) |  
-| :-----: | :-----: |
    
    <!---
 | Network|[A Second Listener]() |
